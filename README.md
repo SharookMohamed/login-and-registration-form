@@ -14,7 +14,7 @@ A fully responsive login and registration form built using React, HTML, CSS, and
 
 Here's an example of how the form looks when rendered:
 
-![Preview Image](https://your-image-link.com/preview.png)
+![Preview Image](https://github.com/SharookMohamed/business-Card--using-react/blob/master/assets/card-img1.png?raw=true)
 
 ## Installation
 
